@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\bin\Debug\Semana Arbol Binario Busqueda Ejemplo.exe.config
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\bin\Debug\Semana Arbol Binario Busqueda Ejemplo.exe
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\bin\Debug\Semana Arbol Binario Busqueda Ejemplo.pdb
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana Arbol Binario Busqueda Ejemplo.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana_Arbol_Binario_Busqueda_Ejemplo.Form1.resources
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana_Arbol_Binario_Busqueda_Ejemplo.Properties.Resources.resources
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana Arbol Binario Busqueda Ejemplo.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana Arbol Binario Busqueda Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana Arbol Binario Busqueda Ejemplo.exe
+C:\Users\UPN\source\repos\Semana Arbol Binario Busqueda Ejemplo\obj\Debug\Semana Arbol Binario Busqueda Ejemplo.pdb
